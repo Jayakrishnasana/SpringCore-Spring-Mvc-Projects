@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="D:\WORK SPACE\Java\HospitalManagement\src\main\java\org\krishna\Hospitalmanagement\repository\HospitalRepository.java"/>
+			<item value="D:\WORK SPACE\Java\RecordsManagement"/>
+			<item value="D:\WORK SPACE\Java\HibernatePractice\src\main\java\org\jayakrishna\HibernatePractice2\App2.java"/>
+			<item value="D:\WORK SPACE\Java\Product_Service\src\main\java\org\jsp\productservice\serviceimp\ProductServiceImp.java"/>
+			<item value="D:\WORK SPACE\Java\umss\src\main\java\com\jsp\productservice\util\SessionFactoryUtil.java"/>
+			<item value="D:\WORK SPACE\Java\umss\pom.xml"/>
+			<item value="D:\WORK SPACE\Java\umss\src\main\java\org\jayakrishna\umss\config\AppConfiguration.java"/>
+			<item value="D:\WORK SPACE\Java\SpringProject1\src\main\java\org\jayakrishna\SpringProject1\App.java"/>
+			<item value="D:\WORK SPACE\Java\krishna\src\main\java\com\ass\krishna\App.java"/>
+			<item value="D:\WORK SPACE\Java\sms1\src\sms1\CommonService1.java"/>
+			<item value="D:\WORK SPACE\Java\app_service\src\main\java\com\ass\appservice\App.java"/>
+			<item value="D:\WORK SPACE\Java\app_service"/>
+			<item value="D:\WORK SPACE\Java\app-service\src\main\java\org\ass\appservice\App.java"/>
+			<item value="D:\WORK SPACE\Java\sms"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.hospital.Hospital_Management_System2"/>
+			<item value="com.practicedemo.practicesimplemvc"/>
+		</list>
+		<list key="groupId">
+			<item value="com.hospital"/>
+			<item value="com.practicedemo"/>
+		</list>
+		<list key="artifactId">
+			<item value="Hospital_Management_System2"/>
+			<item value="practicesimplemvc"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\91703\Downloads\hospital"/>
+			<item value="C:\Users\91703\Downloads\spring-boot001"/>
+			<item value="C:\Users\91703\Downloads\demo"/>
+			<item value="C:\Users\91703\Downloads\CustomerDataManagement\CustomerDataManagement"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenCheckoutLocationPage">
+		<list key="scmUrl">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

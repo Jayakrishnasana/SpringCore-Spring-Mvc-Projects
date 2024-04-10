@@ -1,0 +1,10 @@
+package com.ass.krishna;
+
+public class Laptop {
+	
+	private int id;
+	private String name;
+	
+	
+
+}

@@ -1,0 +1,9 @@
+127.0.0.1 - - [08/Jan/2024:18:22:32 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [08/Jan/2024:18:22:32 +0530] "GET /AEPL-TEST/User%20Registration.jsp HTTP/1.1" 200 5652
+0:0:0:0:0:0:0:1 - - [08/Jan/2024:18:22:33 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [08/Jan/2024:18:22:38 +0530] "GET /AEPL-TEST/getelenmentbyid.jsp HTTP/1.1" 200 213
+0:0:0:0:0:0:0:1 - - [08/Jan/2024:18:22:42 +0530] "GET /AEPL-TEST/getelenmentbyid? HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [08/Jan/2024:18:23:37 +0530] "POST /AEPL-TEST/user_register HTTP/1.1" 500 3344
+127.0.0.1 - - [08/Jan/2024:18:25:51 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [08/Jan/2024:18:25:53 +0530] "GET /Project1/register.jsp HTTP/1.1" 200 919
+0:0:0:0:0:0:0:1 - - [08/Jan/2024:18:26:05 +0530] "GET /Project1/saveDetails?firstName=&contactNumber=&email=&password=&country= HTTP/1.1" 500 24098
